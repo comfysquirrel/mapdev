@@ -1,1 +1,0 @@
-tell @a hello world
